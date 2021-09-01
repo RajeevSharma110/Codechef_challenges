@@ -1,4 +1,4 @@
-# cook your dish here
+# Cook your dish here
 N=int(input())
 if ((N%5==0)&(N%11!=0))|((N%5!=0)&(N%11==0)):
     print("ONE")
