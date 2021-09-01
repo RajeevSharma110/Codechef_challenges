@@ -1,1 +1,1 @@
-# Codechef_challenges
+# Codechef challenges
